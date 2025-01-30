@@ -1,4 +1,4 @@
-# My-apache-site New webpage
+# My-apache-site webpage
 
 Prerequisites
 
@@ -20,4 +20,4 @@ Pyhton && OpenJDK 17
 
 SonarQube for Monitoring 
 
-AWS Ec2  machine for deploying apache web application
+AWS Ec2 tier  Xlarge machine for deploying apache web application
